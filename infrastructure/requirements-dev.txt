@@ -1,0 +1,14 @@
+docstring-to-markdown==0.16
+importlib_metadata==8.6.1
+jedi==0.19.2
+mypy==1.15.0
+mypy-extensions==1.0.0
+parso==0.8.4
+pluggy==1.5.0
+pylsp-mypy==0.7.0
+python-lsp-jsonrpc==1.1.2
+python-lsp-server==1.12.2
+tomli==2.2.1
+typing_extensions==4.13.2
+ujson==5.10.0
+zipp==3.21.0
