@@ -5,6 +5,7 @@ import dotenv
 dotenv.load_dotenv()
 
 from stacks.frontend_stack import FrontendStack
+from stacks.storage_stack import StorageStack
 
 
 app = cdk.App()
@@ -14,6 +15,7 @@ aws_env = cdk.Environment(
     region=os.environ.get("CDK_DEFAULT_REGION")
 )
 
+StorageStack(app, "StorageStack", env=aws_env)
 FrontendStack(app, "FrontendStack", env=aws_env)
 
 app.synth()
