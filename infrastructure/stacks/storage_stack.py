@@ -12,10 +12,10 @@ class StorageStack(Stack):
     def tile_bucket(self) -> aws_s3.IBucket:
         return self._tile_bucket
 
-    def __init__(self, scope: Construct, construct_id: str, **kwargs) -> None:
+    def __init__(self, scope: Construct, construct_id: str, root_domain_name, **kwargs) -> None:
         super().__init__(scope, construct_id, **kwargs)
 
-        root_domain_name = self.node.try_get_context("domain") or os.environ.get("ROOT_DOMAIN_NAME")
+        www_domain_name = f"www.{root_domain_name}"
 
         self._tile_bucket = aws_s3.Bucket(
             self, "TileBucket",
@@ -26,7 +26,12 @@ class StorageStack(Stack):
             versioned=False,
             cors=[
                 aws_s3.CorsRule(
-                    allowed_origins=[root_domain_name],
+                    allowed_origins=[
+                        "http://localhost:8000",
+                        "http://127.0.0.1:8000",
+                        f"https://{root_domain_name}",
+                        f"https://{www_domain_name}"
+                    ],
                     allowed_methods=[aws_s3.HttpMethods.GET],
                     allowed_headers=["*"]
                 )

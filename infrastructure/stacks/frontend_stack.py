@@ -14,16 +14,8 @@ import os
 
 class FrontendStack(Stack):
 
-    def __init__(self, scope: Construct, construct_id: str, **kwargs) -> None:
+    def __init__(self, scope: Construct, construct_id: str, root_domain_name: str, certificate_arn: str, **kwargs) -> None:
         super().__init__(scope, construct_id, **kwargs)
-
-        root_domain_name = self.node.try_get_context("domain") or os.environ.get("ROOT_DOMAIN_NAME")
-        certificate_arn = self.node.try_get_context("cert_arn") or os.environ.get("CERTIFICATE_ARN")
-
-        if not root_domain_name:
-            raise ValueError("Please provide the root domain name via context (-c domain=...) or environment variable ROOT_DOMAIN_NAME")
-        if not certificate_arn:
-            raise ValueError("Please provide the certificate ARN via context (-c cert_arn=...) or environment variable CERTIFICATE_ARN")
 
         www_domain_name = f"www.{root_domain_name}"
 
