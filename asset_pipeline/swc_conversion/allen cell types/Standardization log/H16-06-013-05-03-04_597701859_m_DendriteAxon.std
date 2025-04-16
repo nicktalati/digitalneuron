@@ -1,0 +1,112 @@
+# Standardization file for C:\NMO_dev\data_proc\Temp_LMeasure\H16-06-013-05-03-04_597701859_m_DendriteAxon.swc.swc created with StdSwc version 1.31 on 1/19/23.
+# Edited SWC file saved as C:\NMO_dev\data_proc\Temp_LMeasure\H16-06-013-05-03-04_597701859_m_DendriteAxon.swc.swc.CNG.swc.  See StdSwc1.31.doc for more information.
+#
+# code   irregularity_description. (action taken)
+#     irregularity_type     coordinates
+#
+4.3  Radius of line 2744 at 1.282 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  399.86  440.79  22.45
+4.3  Radius of line 2745 at 1.24 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  398.87  442.83  22.03
+4.3  Radius of line 2746 at 1.198 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  398.0  444.93  21.89
+4.3  Radius of line 2747 at 1.156 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  396.76  446.81  21.87
+4.3  Radius of line 2748 at 1.115 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  396.53  449.07  21.88
+4.3  Radius of line 2749 at 1.074 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  395.98  451.28  21.92
+4.3  Radius of line 2750 at 1.034 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  395.39  453.49  22.0
+4.5  Radius of terminal line 2901 at 0.227 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  411.44  616.46  3.92
+4.5  Radius of terminal line 3255 at 0.227 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  478.2  803.45  7.29
+4.5  Radius of terminal line 3428 at 0.227 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  596.71  680.46  0.0
+4.5  Radius of terminal line 3789 at 0.227 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  619.23  730.14  5.04
+4.3  Radius of line 2313 at 2.054 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  410.26  442.32  22.53
+4.3  Radius of line 2314 at 1.99 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  412.81  444.52  21.94
+4.3  Radius of line 2315 at 1.927 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  414.0  447.69  21.86
+4.3  Radius of line 2316 at 1.863 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  415.35  450.74  21.87
+4.3  Radius of line 2317 at 1.8 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  416.59  453.79  21.87
+4.3  Radius of line 2318 at 1.736 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  417.73  456.98  21.86
+4.3  Radius of line 2319 at 1.669 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  418.74  460.17  21.83
+4.3  Radius of line 2320 at 1.604 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  419.19  463.5  21.74
+4.3  Radius of line 2321 at 1.542 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  419.4  466.91  21.51
+4.3  Radius of line 2322 at 1.476 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  420.77  469.81  20.77
+4.3  Radius of line 2323 at 1.434 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  421.76  471.86  20.21
+4.3  Radius of line 3790 at 3.285 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  415.64  438.16  26.65
+4.3  Radius of line 3791 at 2.71 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  419.97  441.87  26.07
+4.3  Radius of line 3792 at 2.188 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  423.02  445.06  24.69
+4.3  Radius of line 3793 at 1.802 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  425.18  447.72  24.06
+4.3  Radius of line 3794 at 1.76 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  425.75  451.2  23.52
+4.3  Radius of line 3795 at 1.707 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  426.97  454.25  23.51
+4.3  Radius of line 3796 at 1.655 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  429.5  456.42  23.93
+4.3  Radius of line 3797 at 1.602 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  431.9  458.83  24.3
+4.3  Radius of line 3798 at 1.55 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  434.25  461.32  24.36
+4.3  Radius of line 3799 at 1.498 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  437.08  463.23  24.36
+4.3  Radius of line 3800 at 1.463 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  439.2  464.08  24.36
+4.3  Radius of line 3801 at 1.428 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  441.43  464.51  24.36
+4.3  Radius of line 4232 at 1.695 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  428.25  449.23  23.73
+4.3  Radius of line 4233 at 1.565 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  431.29  450.78  23.84
+4.3  Radius of line 4234 at 1.48 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  433.28  451.89  23.85
+4.3  Radius of line 4 at 1.329 >= 5.0 stdevs above the mean.  (no action taken)
+     B1      X, Y, Z:  398.19  421.84  30.87
+2.4  Seg length ending at pt. 2744 >= 6.0 stdevs above mean at 12.5109.  (no action taken)
+     B1      X, Y, Z:  399.86  440.79  22.45
+2.4  Seg length ending at pt. 2313 >= 6.0 stdevs above mean at 13.728.  (no action taken)
+     B1      X, Y, Z:  410.26  442.32  22.53
+2.4  Seg length ending at pt. 3790 >= 6.0 stdevs above mean at 12.9669.  (no action taken)
+     B1      X, Y, Z:  415.64  438.16  26.65
+2.4  Seg length ending at pt. 3791 >= 6.0 stdevs above mean at 5.7314.  (no action taken)
+     B1      X, Y, Z:  419.97  441.87  26.07
+2.4  Seg length ending at pt. 3792 >= 6.0 stdevs above mean at 4.6242.  (no action taken)
+     B1      X, Y, Z:  423.02  445.06  24.69
+2.4  Seg length ending at pt. 5054 >= 6.0 stdevs above mean at 4.2317.  (no action taken)
+     B1      X, Y, Z:  893.92  759.95  129.08
+2.4  Seg length ending at pt. 4 >= 6.0 stdevs above mean at 11.6677.  (no action taken)
+     B1      X, Y, Z:  398.19  421.84  30.87
+2.4  Seg length ending at pt. 2237 >= 6.0 stdevs above mean at 3.0575.  (no action taken)
+     B1      X, Y, Z:  208.67  372.13  104.92
+2.4  Seg length ending at pt. 2240 >= 6.0 stdevs above mean at 4.1539.  (no action taken)
+     B1      X, Y, Z:  353.94  330.15  46.18
+2.4  Seg length ending at pt. 2264 >= 6.0 stdevs above mean at 3.0938.  (no action taken)
+     B1      X, Y, Z:  361.16  342.17  86.79
+2.1  Line 1 has 6 daughters.  Type is 1.  (no action taken)
+     B1      X, Y, Z:  405.08  430.71  27.71
+ 
+ 
+
+
+Number of type A irregularities = 0
+Number of type B1 irregularities = 49
+Number of type B2 irregularities = 0
+Number of type C irregularities = 0
